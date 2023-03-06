@@ -3,7 +3,7 @@ Good Night, and Good Luck: A Control Logic Injection Attack on OpenPLC
 
 This will be published in March 2023. 
 
-[[Demo Video]](https://youtu.be/rEBeV092gWQ)
+[[Demo Video]](https://youtu.be/rEBeV982gWQ)
 
 This tool is used to implement the attack presented in Good Night, and Good Luck: A Control Logic Injection Attack on OpenPLC. 
 
