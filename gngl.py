@@ -83,8 +83,8 @@ def auth():
             return cnt
         else:
             return 204
-    except:
-        print('[x] Error: ', loginattempt.status_code)
+    except requests.exceptions.ConnectionError as e:
+        print(e)
         print('[x] Please try again')
         exit()
 
